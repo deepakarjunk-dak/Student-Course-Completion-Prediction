@@ -97,7 +97,6 @@ Identify dropout risks early
 Provide academic counseling
 Improve overall completion rate
 
-```
 
 ## 📁 Project Structure
 ```
